@@ -1,4 +1,4 @@
-<h1 align="center"><imgsrc="./resources/extras/geez.gif" width="35px">🔥SAYONARA-USERBOT🔥<imgsrc="./resources/extras/geez.gif" width="35px"></h1>
+<h1 align="center"><imgsrc="./resources/extras/geez.gif" width="35px">🔥Naruto-USERBOT🔥<imgsrc="./resources/extras/geez.gif" width="35px"></h1>
 </p>
 <p align="center">
     <a href="https://github.com/Krisnadiwangga/Sayonara-Userbot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -21,7 +21,7 @@
 
 [<img src="https://telegra.ph/file/07aa50bd3ab3a1442f1ed.jpg">](https://t.me/NaraXmusic) 
   
-#### JOIN YA KE SAYONARA SUPPORT!!
+#### JOIN YA KE Naruto SUPPORT!!
 
 <a href="https://t.me/updateunbot"><img src="https://img.shields.io/badge/Channel%20SAYONARA%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/EmporioFamilyWibu"><img src="https://img.shields.io/badge/Join-Sayonara%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
