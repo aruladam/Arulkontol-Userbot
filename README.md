@@ -11,11 +11,11 @@
 
 
 
-![VIEWS](https://komarev.com/ghpvc/?username=Krisnadiwangga)
+![VIEWS](https://komarev.com/ghpvc/?username=aruladam)
 <a href="https://t.me/NaraXmusic"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
-  [![GitHub issues](https://img.shields.io/github/issues/Krisnadiwangga/Sayonara-Userbot?&style=plastic&logo=github)](https://github.com/Krisnadiwangga/Sayonara-Userbot/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Krisnadiwangga/Sayonara-Userbot?&style=plastic&logo=github)](https://github.com/Krisnadiwangga/Sayonara-Userbot/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/Randi356/VEGETA-USERBOT?&style=plastic&logo=github)](https://GitHub.com/Krisnadiwangga/Sayonara-Userbot/graphs/contributors/)
+  [![GitHub issues](https://img.shields.io/github/issues/Krisnadiwangga/Naruto-Userbot?&style=plastic&logo=github)](https://github.com/aruladam/Naruto-Userbot/issues)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Krisnadiwangga/Sayonara-Userbot?&style=plastic&logo=github)](https://github.com/aruladam/Naruto-Userbot/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Randi356/VEGETA-USERBOT?&style=plastic&logo=github)](https://GitHub.com/aruladam/Naruto-Userbot/graphs/contributors/)
 
 <p align="center">
 
