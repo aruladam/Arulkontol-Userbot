@@ -23,8 +23,8 @@
   
 #### JOIN YA KE SAYONARA SUPPORT!!
 
-<a href="https://t.me/NaraXmusic"><img src="https://img.shields.io/badge/Channel%20SAYONARA%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Sayonara_Story"><img src="https://img.shields.io/badge/Join-Sayonara%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/EmporioFamilyWibu"><img src="https://img.shields.io/badge/Channel%20SAYONARA%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/updateunbot"><img src="https://img.shields.io/badge/Join-Sayonara%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ### AMBIL STRING DI BAWAH INI:
