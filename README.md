@@ -57,7 +57,7 @@ TERIMAKASIH UNTUK😎
 
 *   [LANDAK RAMA](https://github.com/ramadhani892) - RAM-UBOT
 *   [RENDY](https://github.com/Randi356) - VEGETA-USERBOT / MAGISK
-*   [SAYONARA](https://github.com/krisnadiwangga) - SAYONARA-USERBOT
+*   [NARUTO](https://github.com/aruladam) - Naruto-USERBOT
  
 # Userbot🔥
 * - JANGAN LUPA KLICK STAR 🤗
